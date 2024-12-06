@@ -48,3 +48,4 @@
    php_flag zlib.output_compression Off
 </IfModule>
 # END cPanel-generated php ini directives, do not edit
+SetEnv REDIRECT_STATUS 200
